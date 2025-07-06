@@ -1,4 +1,4 @@
-#in pc
+#in pc. Este trabajo esta hecho sobre la base del trabajo del Dr. Edmundo Molina-Perez
 root<-"~/Documents/macroeconomia/proyectoFinal"
 model.version<-"Ediam_v2020_02_18"
 dir.calib <- file.path(root, model.version, "CalibrationScripts")
