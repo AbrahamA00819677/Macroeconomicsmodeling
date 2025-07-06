@@ -953,7 +953,7 @@ best.x   <- pareto.pars[best.idx, ]
 
 
 
-
+#Misma funcion que la de arriba, ase agrega el procesamiento en paralelo para eficientizar la busqueda
 # ================================
 # 1) Carga de librerías
 # ================================
