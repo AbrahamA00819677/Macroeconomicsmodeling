@@ -7,7 +7,7 @@ dir.data  <- file.path(dir.calib, "CalibrationData")
 
 
 #=============================================================================================
-# Experiment I: Using historical data from 1995 to 2014 (i.e. monotonic increase in oil price) and no learning effects
+# Experiment I: Using historical data from 1995 to 2014 (Calibration)
 #============================================================================================
 #Load library for using HP filter
 library(mFilter)
